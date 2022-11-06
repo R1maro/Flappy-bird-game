@@ -15,8 +15,8 @@
 
 <script>
 
-import bird from '../components/Bird.vue'
-import j from '../components/Jimmy.vue'
+import bird from '../components/bird.vue'
+import j from '../components/jimmy.vue'
 
 var int1;
 var int2;
